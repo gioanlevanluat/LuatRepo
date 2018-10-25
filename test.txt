@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test file LuatLV update
 Gioanlevanluat updated
+=======
+test file
+>>>>>>> parent of d148ea8... Merge pull request #2 from luatlv/patch-1
